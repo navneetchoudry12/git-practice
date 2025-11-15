@@ -1,0 +1,14 @@
+git init
+git add . (or) file-name
+git commit -m "message"
+git clone "repo-link"
+git config --global user.name "name"
+git config --global user.email "email"
+git status
+git checkout -b (branch-name)
+git switch (branch-name)
+git push <remote> <branch-name>
+git pull
+git show
+git diff
+
